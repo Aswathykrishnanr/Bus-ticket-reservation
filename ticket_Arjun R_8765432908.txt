@@ -1,0 +1,22 @@
+
+----------------------------------------
+        BUS TICKET - TRAVEL AGENCY
+----------------------------------------
+
+Passenger Name : Arjun R
+Phone Number   : 8765432908
+Age            : 22
+Category       : Student
+Route          : Kochi to Bangalore
+Departure Time : 09:00 PM
+Seats Booked   : 2
+
+----------------------------------------
+Ticket Price   : ₹900
+Total Amount   : ₹1800
+Discount       : ₹270.0
+Final Amount   : ₹1530.0
+----------------------------------------
+
+Thank you for booking with us!
+Have a safe journey, Arjun R!
