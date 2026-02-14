@@ -35,8 +35,6 @@ This project demonstrates:
 
 ---
 
-## sample output
-
 ## 🧾 Sample Output
 
 ```text
