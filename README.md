@@ -37,6 +37,9 @@ This project demonstrates:
 
 ## sample output
 
+## 🧾 Sample Output
+
+```text
 ----------------------------------------
         BUS TICKET - TRAVEL AGENCY
 ----------------------------------------
@@ -58,5 +61,7 @@ Final Amount   : ₹1530.0
 
 Thank you for booking with us!
 Have a safe journey, Arjun R!
+```
+
 
 
